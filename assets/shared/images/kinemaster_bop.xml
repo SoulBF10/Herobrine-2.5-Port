@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kinemaster bop.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kinemaster bop instance 10000" x="100" y="100" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10001" x="100" y="330" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10002" x="100" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10003" x="329" y="100" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10004" x="558" y="100" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10005" x="329" y="330" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10006" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10007" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10008" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10009" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10010" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10011" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10012" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10013" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10014" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10015" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10016" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10017" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10018" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10019" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10020" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10021" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10022" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10023" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10024" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10025" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10026" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10027" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10028" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10029" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10030" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10031" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10032" x="329" y="560" width="129" height="130"/>
+	<SubTexture name="kinemaster bop instance 10033" x="329" y="560" width="129" height="130"/>
+</TextureAtlas>

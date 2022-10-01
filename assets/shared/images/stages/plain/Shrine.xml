@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brin_bg.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shrine0000" x="0" y="0" width="541" height="629"/>
+	<SubTexture name="shrine0001" x="541" y="0" width="541" height="629"/>
+	<SubTexture name="shrine0002" x="1082" y="0" width="541" height="629"/>
+	<SubTexture name="shrine0003" x="0" y="629" width="541" height="629"/>
+	<SubTexture name="shrine0004" x="541" y="629" width="541" height="629"/>
+	<SubTexture name="shrine0005" x="1082" y="629" width="541" height="629"/>
+	<SubTexture name="shrine0006" x="0" y="0" width="541" height="629"/>
+	<SubTexture name="shrine0007" x="541" y="0" width="541" height="629"/>
+	<SubTexture name="shrine0008" x="1082" y="0" width="541" height="629"/>
+	<SubTexture name="shrine0009" x="0" y="629" width="541" height="629"/>
+</TextureAtlas>

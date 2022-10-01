@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				189,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bfmeme left"
+		},
+		{
+			"offsets": [
+				4,
+				-158
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bfmeme down"
+		},
+		{
+			"offsets": [
+				-11,
+				242
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bfmeme up"
+		},
+		{
+			"offsets": [
+				-244,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bfmeme right"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bfmeme idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfmeme",
+	"position": [
+		-500,
+		50
+	],
+	"healthicon": "stevded",
+	"flip_x": true,
+	"healthbar_colors": [
+		96,
+		158,
+		195
+	],
+	"camera_position": [
+		-60,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

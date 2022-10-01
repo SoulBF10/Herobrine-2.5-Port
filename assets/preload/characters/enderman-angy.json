@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle angry instance 1"
+		},
+		{
+			"offsets": [
+				198,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left angry instance 1"
+		},
+		{
+			"offsets": [
+				50,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down angry instance 1"
+		},
+		{
+			"offsets": [
+				-23,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up angry instance 1"
+		},
+		{
+			"offsets": [
+				-50,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right angry instance 1"
+		},
+		{
+			"offsets": [
+				59,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "aaa",
+			"indices": [],
+			"name": "aaa yelling instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/enderman_angry",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "Enderman",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		31
+	],
+	"camera_position": [
+		0,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

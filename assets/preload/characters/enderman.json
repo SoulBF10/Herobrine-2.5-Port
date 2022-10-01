@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				136
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/enderman_normal",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "Enderman",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		31
+	],
+	"camera_position": [
+		0,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

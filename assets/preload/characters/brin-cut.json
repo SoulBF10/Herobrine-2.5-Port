@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hero_idle"
+		},
+		{
+			"offsets": [
+				-10,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hero_left"
+		},
+		{
+			"offsets": [
+				40,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hero_down"
+		},
+		{
+			"offsets": [
+				-40,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hero_up"
+		},
+		{
+			"offsets": [
+				-50,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hero_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Herobrine_assest",
+	"position": [
+		-380,
+		0
+	],
+	"healthicon": "Brin",
+	"flip_x": true,
+	"healthbar_colors": [
+		77,
+		87,
+		122
+	],
+	"camera_position": [
+		-700,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

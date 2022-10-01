@@ -1,0 +1,207 @@
+{
+    "animations": [{
+            "offsets": [
+                63, -9
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFTmiss",
+            "indices": [],
+            "name": "left miss"
+        },
+        {
+            "offsets": [
+                1,
+                10
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHTmiss",
+            "indices": [],
+            "name": "right miss"
+        },
+        {
+            "offsets": [
+                25,
+                80
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUPmiss",
+            "indices": [],
+            "name": "up miss"
+        },
+        {
+            "offsets": [
+                37,
+                11
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "firstDeath",
+            "indices": [],
+            "name": "bf dies"
+        },
+        {
+            "offsets": [-65, -365],
+            "loop": true,
+            "fps": 24,
+            "anim": "deathLoop",
+            "indices": [],
+            "name": "bf dead loop"
+        },
+        {
+            "offsets": [
+                37,
+                69
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "deathConfirm",
+            "indices": [],
+            "name": "bf respawn"
+        },
+        {
+            "loop": false,
+            "offsets": [-27, -29],
+            "anim": "singDOWN",
+            "fps": 24,
+            "name": "down",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "offsets": [-7, -32],
+            "loop": false,
+            "fps": 24,
+            "anim": "dodge",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "name": "block"
+        },
+        {
+            "offsets": [-1, -29],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWNmiss",
+            "indices": [],
+            "name": "down miss"
+        },
+        {
+            "offsets": [
+                2, -8
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "name": "left"
+        },
+        {
+            "offsets": [-31,
+                6
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "name": "right"
+        },
+        {
+            "offsets": [
+                17,
+                65
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "name": "up"
+        },
+        {
+            "offsets": [-5,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "idle",
+            "loop": false,
+            "name": "idle"
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/infiBFEMIX",
+    "position": [
+        110,
+        240
+    ],
+    "healthicon": "bf-sparkle",
+    "flip_x": true,
+    "healthbar_colors": [
+        237,
+        92,
+        92
+    ],
+    "camera_position": [-120,
+        0
+    ],
+    "sing_duration": 4,
+    "scale": 0.9
+}

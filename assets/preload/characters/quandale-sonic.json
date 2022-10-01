@@ -1,0 +1,72 @@
+{
+    "animations": [{
+            "offsets": [
+                0,
+                220
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "idle",
+            "loop": false,
+            "name": "sonic_idle"
+        },
+        {
+            "offsets": [-98,
+                89
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singDOWN",
+            "loop": false,
+            "name": "sonic_down"
+        },
+        {
+            "offsets": [-96,
+                228
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singRIGHT",
+            "loop": false,
+            "name": "sonic_right"
+        },
+        {
+            "offsets": [
+                109,
+                130
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singLEFT",
+            "loop": false,
+            "name": "sonic_left"
+        },
+        {
+            "offsets": [
+                0,
+                285
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singUP",
+            "loop": false,
+            "name": "sonic_up"
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/quandale_sonic_assest",
+    "position": [
+        150,
+        300
+    ],
+    "healthicon": "sonictime",
+    "flip_x": false,
+    "healthbar_colors": [
+        77,
+        87,
+        122
+    ],
+    "camera_position": [-280, -120],
+    "sing_duration": 6.1,
+    "scale": 1.2
+}

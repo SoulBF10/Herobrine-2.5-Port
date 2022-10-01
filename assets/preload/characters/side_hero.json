@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				193,
+				215
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Herobrine Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				441,
+				230
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Herobrine Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Herobrine Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				230
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Herobrine Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				282,
+				640
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Herobrine UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/heborine_side_shit",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "Brin",
+	"flip_x": false,
+	"healthbar_colors": [
+		77,
+		87,
+		122
+	],
+	"camera_position": [
+		-350,
+		-350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

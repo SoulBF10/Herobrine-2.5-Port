@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				38,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				4,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				190,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				30,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/brin_zombie",
+	"position": [
+		280,
+		300
+	],
+	"healthicon": "HerobrineZombie",
+	"flip_x": false,
+	"healthbar_colors": [
+		117,
+		187,
+		122
+	],
+	"camera_position": [
+		-80,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				51,
-				17
+				-9,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				144,
-				-90
+				-62,
+				-122
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				140,
-				-68
+				-60,
+				-88
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				58,
-				27
+				-2,
+				37
 			],
 			"loop": false,
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-58,
-				2
+				99,
+				3
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				182,
-				4
+				-127,
+				3
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-54,
-				29
+				114,
+				38
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -80,8 +80,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				200,
-				14
+				-114,
+				20
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -102,8 +102,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				160,
-				150
+				191,
+				253
 			],
 			"anim": "firstDeath",
 			"fps": 24,
@@ -113,8 +113,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				160,
-				8
+				-234,
+				54
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -123,13 +123,13 @@
 		},
 		{
 			"offsets": [
-				160,
-				112
+				-234,
+				199
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
-			"loop": false,
+			"indices": [],
 			"name": "dead confirm"
 		},
 		{
@@ -137,10 +137,10 @@
 				208,
 				-49
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "dodgeLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "dodge left TRUE"
 		},
 		{
@@ -148,10 +148,10 @@
 				-40,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "dodgeRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "dodge right TRUE"
 		}
 	],
@@ -159,7 +159,7 @@
 	"image": "characters/pico-tuxido",
 	"position": [
 		0,
-		300
+		130
 	],
 	"healthicon": "pico",
 	"flip_x": true,
@@ -173,5 +173,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.4
 }

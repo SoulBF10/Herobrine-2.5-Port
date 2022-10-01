@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tes",
+			"indices": [
+				0,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tes",
+			"indices": [
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tes",
+			"indices": [
+				2,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tes",
+			"indices": [
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tes",
+			"indices": [
+				4,
+				4
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/teserex_discord",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bois",
+	"flip_x": true,
+	"healthbar_colors": [
+		193,
+		174,
+		116
+	],
+	"camera_position": [
+		-100,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

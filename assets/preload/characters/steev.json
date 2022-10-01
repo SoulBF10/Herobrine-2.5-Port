@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				229
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				230
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				230
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				230
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				230
+			],
+			"anim": "Shoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/steev",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "steev",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		255,
+		255
+	],
+	"camera_position": [
+		-350,
+		-350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

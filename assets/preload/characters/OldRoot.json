@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-41
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "OldRoot Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				-91
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "OldRoot Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-82
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "OldRoot Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-83
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "OldRoot Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-74
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "OldRoot Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OldRoot",
+	"position": [
+		-170,
+		-260
+	],
+	"healthicon": "faceless",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		146,
+		173
+	],
+	"camera_position": [
+		-400,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

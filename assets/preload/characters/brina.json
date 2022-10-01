@@ -1,0 +1,106 @@
+{
+    "animations": [{
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "idle",
+            "loop": false,
+            "name": "idle"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singLEFT",
+            "loop": false,
+            "name": "left"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singDOWN",
+            "loop": false,
+            "name": "down"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singUP",
+            "loop": false,
+            "name": "up"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singRIGHT",
+            "loop": false,
+            "name": "right"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "emerge",
+            "loop": false,
+            "name": "emerge"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "sob",
+            "loop": false,
+            "name": "sob"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "pout",
+            "loop": false,
+            "name": "pout"
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/brina",
+    "position": [-40, -50],
+    "healthicon": "woman",
+    "flip_x": false,
+    "healthbar_colors": [
+        161,
+        161,
+        161
+    ],
+    "camera_position": [
+        170, -40
+    ],
+    "sing_duration": 6.1,
+    "scale": 1
+}

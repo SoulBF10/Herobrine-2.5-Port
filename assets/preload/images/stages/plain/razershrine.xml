@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="razershrine.png"><SubTexture name="razershrine omggfire0000" x="0" y="0" width="542" height="603" frameX="-80" frameY="-44" frameWidth="703" frameHeight="673" />
+<SubTexture name="razershrine omggfire0001" x="542" y="0" width="542" height="603" frameX="-80" frameY="-44" frameWidth="703" frameHeight="673" />
+<SubTexture name="razershrine omggfire0002" x="1084" y="0" width="542" height="603" frameX="-80" frameY="-44" frameWidth="703" frameHeight="673" />
+<SubTexture name="razershrine omggfire0003" x="0" y="603" width="542" height="603" frameX="-80" frameY="-44" frameWidth="703" frameHeight="673" />
+<SubTexture name="razershrine omggfire0004" x="542" y="603" width="542" height="603" frameX="-80" frameY="-44" frameWidth="703" frameHeight="673" />
+<SubTexture name="razershrine omggfire0005" x="1084" y="603" width="542" height="603" frameX="-80" frameY="-44" frameWidth="703" frameHeight="673" />
+<SubTexture name="razershrine omggfire0006" x="0" y="0" width="542" height="603" frameX="-80" frameY="-44" frameWidth="703" frameHeight="673" />
+<SubTexture name="razershrine omggfire0007" x="542" y="0" width="542" height="603" frameX="-80" frameY="-44" frameWidth="703" frameHeight="673" />
+<SubTexture name="razershrine omggfire0008" x="1084" y="0" width="542" height="603" frameX="-80" frameY="-44" frameWidth="703" frameHeight="673" />
+<SubTexture name="razershrine omggfire0009" x="0" y="603" width="542" height="603" frameX="-80" frameY="-44" frameWidth="703" frameHeight="673" />
+</TextureAtlas>

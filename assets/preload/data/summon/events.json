@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				33149.1712707182,
+				[
+					[
+						"Chat",
+						"<Herobrine> What's Wrong, Kid?",
+						"false, false"
+					]
+				]
+			],
+			[
+				34475.138121547,
+				[
+					[
+						"Chat",
+						"<Herobrine> This Is First Summon Kid.",
+						"false, false"
+					]
+				]
+			],
+			[
+				37127.0718232044,
+				[
+					[
+						"Chat",
+						"<Boyfriend> herobrine stop",
+						"false, false"
+					]
+				]
+			],
+			[
+				38453.0386740331,
+				[
+					[
+						"Chat",
+						"<Boyfriend> you cant destroyed a world",
+						"false, false"
+					]
+				]
+			],
+			[
+				159116.022099447,
+				[
+					[
+						"Fade",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

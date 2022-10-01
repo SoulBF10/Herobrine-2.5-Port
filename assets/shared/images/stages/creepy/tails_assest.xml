@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tails_assest.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tails_idle0000" x="8" y="8" width="577" height="663" pivotX="150.55" pivotY="358.75" frameX="-4" frameY="-15" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0001" x="8" y="8" width="577" height="663" frameX="-4" frameY="-15" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0002" x="595" y="8" width="592" height="676" frameX="0" frameY="-4" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0003" x="595" y="8" width="592" height="676" frameX="0" frameY="-4" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0004" x="1197" y="8" width="567" height="678" frameX="-9" frameY="-2" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0005" x="1197" y="8" width="567" height="678" frameX="-9" frameY="-2" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0006" x="8" y="696" width="560" height="681" frameX="-8" frameY="0" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0007" x="8" y="696" width="560" height="681" frameX="-8" frameY="0" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0008" x="8" y="696" width="560" height="681" frameX="-8" frameY="0" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0009" x="8" y="696" width="560" height="681" frameX="-8" frameY="0" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0010" x="8" y="696" width="560" height="681" frameX="-8" frameY="0" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0011" x="8" y="696" width="560" height="681" frameX="-8" frameY="0" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0012" x="8" y="696" width="560" height="681" frameX="-8" frameY="0" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0013" x="8" y="696" width="560" height="681" frameX="-8" frameY="0" frameWidth="592" frameHeight="681"/>
+	<SubTexture name="tails_idle0014" x="8" y="696" width="560" height="681" frameX="-8" frameY="0" frameWidth="592" frameHeight="681"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+Tweens a modifier Y value
+val1: name,value
+val2: time,ease
+example: val1 = "drunk,2" val2 = "3,cubeInOut"

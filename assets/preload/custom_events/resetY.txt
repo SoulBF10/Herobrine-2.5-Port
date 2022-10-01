@@ -1,0 +1,3 @@
+resets the strumOffset values
+val1: time in seconds
+val2: ease

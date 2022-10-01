@@ -1,0 +1,4 @@
+RIP:HUD
+this is a smooth version to use instead the psych zoom
+
+value1: 1 turns HUD off (smoothly); 2 turns HUD back on (if off)

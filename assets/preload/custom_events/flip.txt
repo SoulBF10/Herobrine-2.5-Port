@@ -1,0 +1,3 @@
+flips the strum positions, only works with 4 keys
+val1: time in seconds
+val2: ease

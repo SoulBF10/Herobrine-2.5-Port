@@ -1,0 +1,3 @@
+inverts the strum positions
+val1: time in seconds
+val2: ease

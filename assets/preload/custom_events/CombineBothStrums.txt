@@ -1,0 +1,5 @@
+have fun telling whos arrows are who.
+value 1 = how long it takes to move the arrows
+value 2 = mid = middle scroll
+          left = left scroll
+          right = right scroll

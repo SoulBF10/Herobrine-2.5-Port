@@ -1,0 +1,5 @@
+Value 1 = Opponent Strum Style
+
+Value 2 = Player Strum Style
+
+Can be Left,Right,Up,Down and Undyne

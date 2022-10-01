@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FireVillage.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hot instance 10000" x="5" y="5" width="1332" height="296" frameX="0" frameY="-5" frameWidth="1332" frameHeight="301"/>
+	<SubTexture name="hot instance 10001" x="5" y="5" width="1332" height="296" frameX="0" frameY="-5" frameWidth="1332" frameHeight="301"/>
+	<SubTexture name="hot instance 10002" x="5" y="5" width="1332" height="296" frameX="0" frameY="-5" frameWidth="1332" frameHeight="301"/>
+	<SubTexture name="hot instance 10003" x="5" y="341" width="1332" height="298" frameX="0" frameY="-3" frameWidth="1332" frameHeight="301"/>
+	<SubTexture name="hot instance 10004" x="5" y="341" width="1332" height="298" frameX="0" frameY="-3" frameWidth="1332" frameHeight="301"/>
+	<SubTexture name="hot instance 10005" x="5" y="341" width="1332" height="298" frameX="0" frameY="-3" frameWidth="1332" frameHeight="301"/>
+	<SubTexture name="hot instance 10006" x="5" y="679" width="1332" height="301"/>
+	<SubTexture name="hot instance 10007" x="5" y="679" width="1332" height="301"/>
+	<SubTexture name="hot instance 10008" x="5" y="679" width="1332" height="301"/>
+	<SubTexture name="hot instance 10009" x="5" y="1020" width="1332" height="298" frameX="0" frameY="-3" frameWidth="1332" frameHeight="301"/>
+	<SubTexture name="hot instance 10010" x="5" y="1020" width="1332" height="298" frameX="0" frameY="-3" frameWidth="1332" frameHeight="301"/>
+	<SubTexture name="hot instance 10011" x="5" y="1358" width="1332" height="296" frameX="0" frameY="-5" frameWidth="1332" frameHeight="301"/>
+</TextureAtlas>

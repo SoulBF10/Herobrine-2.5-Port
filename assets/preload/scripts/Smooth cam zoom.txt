@@ -1,0 +1,7 @@
+better version of the camarea zoom (exepting the hud)
+
+Value 1:zoom
+
+Value 2: if blank, it will smoothly zoom regularly
+
+if u put a number,it will do an instant zoom

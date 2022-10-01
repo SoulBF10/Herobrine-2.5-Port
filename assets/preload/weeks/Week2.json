@@ -1,0 +1,50 @@
+{
+	"storyName": "Glitch Time ooooo",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "dangbrothatscrazy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Crashlog",
+			"brin-g",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Deletion",
+			"brin-g",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Diverge",
+			"brin-g",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Glitched Reality",
+	"hiddenUntilUnlocked": true
+}

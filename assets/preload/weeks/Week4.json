@@ -1,0 +1,41 @@
+{
+	"storyName": "Good Ole Root",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "dangbrothatscrazy",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Nevermore",
+			"Faceless",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Petrify",
+			"Faceless",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "week4"
+}

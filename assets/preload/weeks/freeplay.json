@@ -1,0 +1,149 @@
+{
+	"storyName": "Freeeeeplayyyyyy",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "dangbrothatscrazy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekEmix",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"No Escape Hellmix",
+			"Brin",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Final Warning Smokemix",
+			"Brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Nevermore",
+			"Faceless",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Petrify",
+			"Faceless",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bloodlust",
+			"alex",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Shootout",
+			"steev",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Danger-Classic",
+			"Brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Creepypasta Clash",
+			"sonictime",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Roasted Beef",
+			"sonictime",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"cutoff",
+			"slender",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Female-Spotted",
+			"woman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"summon-meme",
+			"none",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Death Wish",
+			"entity-303",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sighting",
+			"none",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "freeeeplayyyyyya",
+	"hiddenUntilUnlocked": true
+}

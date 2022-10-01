@@ -1,0 +1,50 @@
+{
+	"storyName": "Emix time Baby",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "dangbrothatscrazy",
+	"weekBefore": "week4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Summon Emix",
+			"herobrinegaming",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Final Warning Emix",
+			"herobrinegaming",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"no escape emix",
+			"herobrinegaming",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "week4"
+}

@@ -1,0 +1,68 @@
+{
+	"storyName": "Herobrin Time bb!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "dangbrothatscrazy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Summon",
+			"Brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Underground",
+			"Brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Final Warning",
+			"Brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Danger",
+			"Brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"No Escape",
+			"Brin",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Herobrine Week",
+	"hiddenUntilUnlocked": false
+}

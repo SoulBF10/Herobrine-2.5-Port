@@ -1,0 +1,50 @@
+{
+	"storyName": "Null boi go brrrr",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "dangbrothatscrazy",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Desolation",
+			"voidboi",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Bedrock",
+			"voidboi",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Fallen",
+			"voidboi",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Null Week"
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lol0000" x="16" y="16" width="968" height="948" frameX="-108" frameY="-53" frameWidth="1131" frameHeight="1034"/>
+	<SubTexture name="lol0001" x="997" y="16" width="1093" height="927" frameX="-38" frameY="-39" frameWidth="1131" frameHeight="1034"/>
+	<SubTexture name="lol0002" x="2103" y="16" width="1075" height="963" frameX="-51" frameY="-21" frameWidth="1131" frameHeight="1034"/>
+	<SubTexture name="lol0003" x="16" y="992" width="1114" height="1034" frameX="0" frameY="0" frameWidth="1131" frameHeight="1034"/>
+</TextureAtlas>

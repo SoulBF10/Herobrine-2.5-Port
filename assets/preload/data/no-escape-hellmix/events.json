@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Activate extra keys",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				153.061224489796,
+				[
+					[
+						"modchartoff",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154285.714285715,
+				[
+					[
+						"Change P1 Mania",
+						"6",
+						"true"
+					],
+					[
+						"Toggle Trail",
+						"",
+						"1"
+					],
+					[
+						"Smooth cam zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				156275.510204082,
+				[
+					[
+						"Smooth cam zoom",
+						"0.6",
+						"1"
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				195918.367346939,
+				[
+					[
+						"Change P1 Mania",
+						"4",
+						"false"
+					],
+					[
+						"Toggle Trail",
+						"",
+						"0"
+					],
+					[
+						"Cam Boom Speed",
+						"2",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

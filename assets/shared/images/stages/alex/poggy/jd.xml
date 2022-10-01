@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jd.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PoggyIdle instance 10000" x="100" y="100" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10001" x="100" y="100" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10002" x="470" y="100" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10003" x="470" y="100" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10004" x="840" y="100" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10005" x="840" y="100" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10006" x="1210" y="100" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10007" x="1210" y="100" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10008" x="1580" y="100" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10009" x="1580" y="100" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10010" x="100" y="500" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10011" x="100" y="500" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10012" x="470" y="500" width="270" height="300"/>
+	<SubTexture name="PoggyIdle instance 10013" x="470" y="500" width="270" height="300"/>
+</TextureAtlas>

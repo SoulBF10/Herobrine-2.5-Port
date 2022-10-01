@@ -1,0 +1,28 @@
+{
+	"directory": "",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+	"allowmovement": false,
+
+	"show_enemy_health": false,
+	"show_bf_health": false,
+	"player_health": 10,
+	"opponent_health": 20,
+	"dad_offset": 70,
+	"bf_offset": 30,
+	"healthPos": [[700, 20], [370, 50]],
+
+	"boyfriend": [770, 100],
+	"bf2": [770, 100],
+	"bf3": [790, 120],
+	"bf4": [810, 140],
+	"bf5": [830, 160],
+	"girlfriend": [400, 130],
+	"opponent": [100, 100],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [0, 0],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

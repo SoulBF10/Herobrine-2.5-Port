@@ -1,0 +1,26 @@
+{
+    "directory": "",
+    "defaultZoom": 0.5,
+    "isPixelStage": false,
+    "allowmovement": false,
+
+    "show_enemy_health": false,
+    "show_bf_health": true,
+    "player_health": 10,
+    "opponent_health": 20,
+    "dad_offset": 200,
+    "bf_offset": 30,
+    "healthPos": [
+        [830, 400],
+        [1000, 6000]
+    ],
+
+    "boyfriend": [940, 420],
+    "girlfriend": [300, 300],
+    "opponent": [1100, 1500],
+
+    "camera_boyfriend": [0, -200],
+    "camera_opponent": [200, -55],
+    "camera_girlfriend": [0, 0],
+    "camera_speed": 1
+}

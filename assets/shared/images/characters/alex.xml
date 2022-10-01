@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alex.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AlexDown0000" x="1427" y="1143" width="1449" height="1248" frameX="-96" frameY="-131" frameWidth="1652" frameHeight="1379"/>
+	<SubTexture name="AlexDown0001" x="1427" y="1143" width="1449" height="1248" frameX="-96" frameY="-131" frameWidth="1652" frameHeight="1379"/>
+	<SubTexture name="AlexDown0002" x="1427" y="4" width="1652" height="1135" frameX="0" frameY="-189" frameWidth="1652" frameHeight="1379"/>
+	<SubTexture name="AlexDown0003" x="1427" y="4" width="1652" height="1135" frameX="0" frameY="-189" frameWidth="1652" frameHeight="1379"/>
+	<SubTexture name="AlexDown0004" x="3083" y="4" width="1587" height="1174" frameX="-15" frameY="-128" frameWidth="1652" frameHeight="1379"/>
+	<SubTexture name="AlexDown0005" x="3083" y="4" width="1587" height="1174" frameX="-15" frameY="-128" frameWidth="1652" frameHeight="1379"/>
+	<SubTexture name="AlexDown0006" x="5856" y="4" width="1342" height="1225" frameX="-100" frameY="-54" frameWidth="1652" frameHeight="1379"/>
+	<SubTexture name="AlexDown0007" x="5149" y="2684" width="1199" height="1267" frameX="-146" frameY="-13" frameWidth="1652" frameHeight="1379"/>
+	<SubTexture name="AlexDown0008" x="5149" y="2684" width="1199" height="1267" frameX="-146" frameY="-13" frameWidth="1652" frameHeight="1379"/>
+	<SubTexture name="AlexDown0009" x="1065" y="5230" width="1139" height="1299" frameX="-149" frameY="0" frameWidth="1652" frameHeight="1379"/>
+	<SubTexture name="AlexIdle0000" x="4" y="5573" width="1054" height="1402" frameX="-2" frameY="-10" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0001" x="4" y="5573" width="1054" height="1402" frameX="-2" frameY="-10" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0002" x="6830" y="4017" width="1025" height="1422" frameX="-4" frameY="-10" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0003" x="6830" y="4017" width="1025" height="1422" frameX="-4" frameY="-10" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0004" x="4406" y="5352" width="1020" height="1418" frameX="-8" frameY="-20" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0005" x="4406" y="5352" width="1020" height="1418" frameX="-8" frameY="-20" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0006" x="6809" y="5443" width="1023" height="1416" frameX="-7" frameY="-4" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0007" x="6809" y="5443" width="1023" height="1416" frameX="-7" frameY="-4" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0008" x="1062" y="6533" width="1034" height="1410" frameX="-1" frameY="-4" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0009" x="1062" y="6533" width="1034" height="1410" frameX="-1" frameY="-4" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0010" x="5763" y="5344" width="1042" height="1391" frameX="-1" frameY="-4" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0011" x="5763" y="5344" width="1042" height="1391" frameX="-1" frameY="-4" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0012" x="4699" y="3955" width="1060" height="1393" frameX="0" frameY="0" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0013" x="4699" y="3955" width="1060" height="1393" frameX="0" frameY="0" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0014" x="5763" y="3955" width="1063" height="1385" frameX="0" frameY="-7" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexIdle0015" x="5763" y="3955" width="1063" height="1385" frameX="0" frameY="-7" frameWidth="1063" frameHeight="1438"/>
+	<SubTexture name="AlexLeft0000" x="2880" y="1182" width="1207" height="1388" frameX="-50" frameY="-13" frameWidth="1257" frameHeight="1436"/>
+	<SubTexture name="AlexLeft0001" x="2880" y="1182" width="1207" height="1388" frameX="-50" frameY="-13" frameWidth="1257" frameHeight="1436"/>
+	<SubTexture name="AlexLeft0002" x="4" y="2759" width="1185" height="1393" frameX="0" frameY="-8" frameWidth="1257" frameHeight="1436"/>
+	<SubTexture name="AlexLeft0003" x="4" y="2759" width="1185" height="1393" frameX="0" frameY="-8" frameWidth="1257" frameHeight="1436"/>
+	<SubTexture name="AlexLeft0004" x="6986" y="2610" width="1095" height="1403" frameX="-32" frameY="0" frameWidth="1257" frameHeight="1436"/>
+	<SubTexture name="AlexLeft0005" x="6986" y="2610" width="1095" height="1403" frameX="-32" frameY="0" frameWidth="1257" frameHeight="1436"/>
+	<SubTexture name="AlexLeft0006" x="1193" y="3810" width="1076" height="1416" frameX="-100" frameY="-13" frameWidth="1257" frameHeight="1436"/>
+	<SubTexture name="AlexLeft0007" x="3364" y="4270" width="1038" height="1410" frameX="-169" frameY="-26" frameWidth="1257" frameHeight="1436"/>
+	<SubTexture name="AlexLeft0008" x="3364" y="4270" width="1038" height="1410" frameX="-169" frameY="-26" frameWidth="1257" frameHeight="1436"/>
+	<SubTexture name="AlexLeft0009" x="5430" y="6739" width="1027" height="1398" frameX="-179" frameY="-26" frameWidth="1257" frameHeight="1436"/>
+	<SubTexture name="AlexRight0000" x="4674" y="4" width="1178" height="1440" frameX="0" frameY="-11" frameWidth="1307" frameHeight="1462"/>
+	<SubTexture name="AlexRight0001" x="4674" y="4" width="1178" height="1440" frameX="0" frameY="-11" frameWidth="1307" frameHeight="1462"/>
+	<SubTexture name="AlexRight0002" x="5856" y="1233" width="1126" height="1447" frameX="-125" frameY="-9" frameWidth="1307" frameHeight="1462"/>
+	<SubTexture name="AlexRight0003" x="5856" y="1233" width="1126" height="1447" frameX="-125" frameY="-9" frameWidth="1307" frameHeight="1462"/>
+	<SubTexture name="AlexRight0004" x="4091" y="1448" width="1054" height="1451" frameX="-253" frameY="-11" frameWidth="1307" frameHeight="1462"/>
+	<SubTexture name="AlexRight0005" x="4091" y="1448" width="1054" height="1451" frameX="-253" frameY="-11" frameWidth="1307" frameHeight="1462"/>
+	<SubTexture name="AlexRight0006" x="3271" y="5684" width="1020" height="1404" frameX="-254" frameY="-15" frameWidth="1307" frameHeight="1462"/>
+	<SubTexture name="AlexRight0007" x="2208" y="5345" width="1059" height="1377" frameX="-173" frameY="0" frameWidth="1307" frameHeight="1462"/>
+	<SubTexture name="AlexRight0008" x="2208" y="5345" width="1059" height="1377" frameX="-173" frameY="0" frameWidth="1307" frameHeight="1462"/>
+	<SubTexture name="AlexRight0009" x="2273" y="3974" width="1087" height="1367" frameX="-43" frameY="-40" frameWidth="1307" frameHeight="1462"/>
+	<SubTexture name="AlexSpawn0000" x="6986" y="1233" width="1133" height="1373"/>
+	<SubTexture name="AlexUp0000" x="3604" y="2903" width="1091" height="1363" frameX="-193" frameY="-81" frameWidth="1419" frameHeight="1512"/>
+	<SubTexture name="AlexUp0001" x="3604" y="2903" width="1091" height="1363" frameX="-193" frameY="-81" frameWidth="1419" frameHeight="1512"/>
+	<SubTexture name="AlexUp0002" x="4" y="4156" width="1057" height="1413" frameX="-201" frameY="0" frameWidth="1419" frameHeight="1512"/>
+	<SubTexture name="AlexUp0003" x="4" y="4156" width="1057" height="1413" frameX="-201" frameY="0" frameWidth="1419" frameHeight="1512"/>
+	<SubTexture name="AlexUp0004" x="2508" y="2574" width="1092" height="1396" frameX="-198" frameY="-39" frameWidth="1419" frameHeight="1512"/>
+	<SubTexture name="AlexUp0005" x="2508" y="2574" width="1092" height="1396" frameX="-198" frameY="-39" frameWidth="1419" frameHeight="1512"/>
+	<SubTexture name="AlexUp0006" x="1319" y="2395" width="1185" height="1411" frameX="-160" frameY="-41" frameWidth="1419" frameHeight="1512"/>
+	<SubTexture name="AlexUp0007" x="4" y="4" width="1419" height="1390" frameX="0" frameY="-99" frameWidth="1419" frameHeight="1512"/>
+	<SubTexture name="AlexUp0008" x="4" y="4" width="1419" height="1390" frameX="0" frameY="-99" frameWidth="1419" frameHeight="1512"/>
+	<SubTexture name="AlexUp0009" x="4" y="1398" width="1311" height="1357" frameX="-102" frameY="-155" frameWidth="1419" frameHeight="1512"/>
+</TextureAtlas>

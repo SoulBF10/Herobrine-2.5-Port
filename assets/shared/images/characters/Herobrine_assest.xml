@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Herobrine_assest.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hero_down0000" x="8" y="8" width="975" height="628" pivotX="76.7" pivotY="-26.4" frameX="0" frameY="-10" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0001" x="8" y="8" width="975" height="628" frameX="0" frameY="-10" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0002" x="993" y="8" width="936" height="638" frameX="-15" frameY="0" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0003" x="993" y="8" width="936" height="638" frameX="-15" frameY="0" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0004" x="1939" y="8" width="891" height="632" frameX="-37" frameY="-6" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0005" x="1939" y="8" width="891" height="632" frameX="-37" frameY="-6" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0006" x="2840" y="8" width="866" height="631" frameX="-49" frameY="-7" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0007" x="2840" y="8" width="866" height="631" frameX="-49" frameY="-7" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0008" x="8" y="656" width="862" height="633" frameX="-51" frameY="-5" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0009" x="8" y="656" width="862" height="633" frameX="-51" frameY="-5" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0010" x="8" y="656" width="862" height="633" frameX="-51" frameY="-5" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0011" x="8" y="656" width="862" height="633" frameX="-51" frameY="-5" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0012" x="8" y="656" width="862" height="633" frameX="-51" frameY="-5" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0013" x="8" y="656" width="862" height="633" frameX="-51" frameY="-5" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_down0014" x="8" y="656" width="862" height="633" frameX="-51" frameY="-5" frameWidth="975" frameHeight="638"/>
+	<SubTexture name="hero_idle0000" x="880" y="656" width="919" height="603" pivotX="51.05" pivotY="-34" frameX="0" frameY="-27" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0001" x="880" y="656" width="919" height="603" frameX="0" frameY="-27" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0002" x="1809" y="656" width="892" height="619" frameX="-12" frameY="-11" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0003" x="1809" y="656" width="892" height="619" frameX="-12" frameY="-11" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0004" x="2711" y="656" width="870" height="626" frameX="-22" frameY="-4" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0005" x="2711" y="656" width="870" height="626" frameX="-22" frameY="-4" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0006" x="8" y="1299" width="866" height="627" frameX="-24" frameY="-3" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0007" x="8" y="1299" width="866" height="627" frameX="-24" frameY="-3" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0008" x="884" y="1299" width="862" height="630" frameX="-26" frameY="0" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0009" x="884" y="1299" width="862" height="630" frameX="-26" frameY="0" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0010" x="884" y="1299" width="862" height="630" frameX="-26" frameY="0" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0011" x="884" y="1299" width="862" height="630" frameX="-26" frameY="0" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0012" x="884" y="1299" width="862" height="630" frameX="-26" frameY="0" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0013" x="884" y="1299" width="862" height="630" frameX="-26" frameY="0" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_idle0014" x="884" y="1299" width="862" height="630" frameX="-26" frameY="0" frameWidth="919" frameHeight="630"/>
+	<SubTexture name="hero_left0000" x="1756" y="1299" width="884" height="652" pivotX="47" pivotY="-12.85" frameX="0" frameY="0" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0001" x="1756" y="1299" width="884" height="652" frameX="0" frameY="0" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0002" x="2650" y="1299" width="872" height="647" frameX="-12" frameY="-5" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0003" x="2650" y="1299" width="872" height="647" frameX="-12" frameY="-5" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0004" x="8" y="1961" width="862" height="641" frameX="-22" frameY="-11" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0005" x="8" y="1961" width="862" height="641" frameX="-22" frameY="-11" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0006" x="880" y="1961" width="864" height="639" frameX="-22" frameY="-13" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0007" x="880" y="1961" width="864" height="639" frameX="-22" frameY="-13" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0008" x="880" y="1961" width="864" height="639" frameX="-22" frameY="-13" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0009" x="880" y="1961" width="864" height="639" frameX="-22" frameY="-13" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0010" x="880" y="1961" width="864" height="639" frameX="-22" frameY="-13" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0011" x="880" y="1961" width="864" height="639" frameX="-22" frameY="-13" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0012" x="880" y="1961" width="864" height="639" frameX="-22" frameY="-13" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0013" x="880" y="1961" width="864" height="639" frameX="-22" frameY="-13" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_left0014" x="880" y="1961" width="864" height="639" frameX="-22" frameY="-13" frameWidth="886" frameHeight="652"/>
+	<SubTexture name="hero_right0000" x="1754" y="1961" width="887" height="643" pivotX="24.65" pivotY="-15.75" frameX="0" frameY="-6" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0001" x="1754" y="1961" width="887" height="643" frameX="0" frameY="-6" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0002" x="2651" y="1961" width="877" height="649" frameX="0" frameY="0" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0003" x="2651" y="1961" width="877" height="649" frameX="0" frameY="0" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0004" x="8" y="2620" width="865" height="641" frameX="0" frameY="-8" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0005" x="8" y="2620" width="865" height="641" frameX="0" frameY="-8" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0006" x="883" y="2620" width="863" height="636" frameX="0" frameY="-13" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0007" x="883" y="2620" width="863" height="636" frameX="0" frameY="-13" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0008" x="883" y="2620" width="863" height="636" frameX="0" frameY="-13" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0009" x="883" y="2620" width="863" height="636" frameX="0" frameY="-13" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0010" x="883" y="2620" width="863" height="636" frameX="0" frameY="-13" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0011" x="883" y="2620" width="863" height="636" frameX="0" frameY="-13" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0012" x="883" y="2620" width="863" height="636" frameX="0" frameY="-13" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0013" x="883" y="2620" width="863" height="636" frameX="0" frameY="-13" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_right0014" x="883" y="2620" width="863" height="636" frameX="0" frameY="-13" frameWidth="887" frameHeight="649"/>
+	<SubTexture name="hero_up0000" x="1756" y="2620" width="828" height="684" pivotX="33" pivotY="20" frameX="-25" frameY="0" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0001" x="1756" y="2620" width="828" height="684" frameX="-25" frameY="0" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0002" x="2594" y="2620" width="842" height="669" frameX="-18" frameY="-15" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0003" x="2594" y="2620" width="842" height="669" frameX="-18" frameY="-15" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0004" x="8" y="3314" width="863" height="647" frameX="-7" frameY="-37" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0005" x="8" y="3314" width="863" height="647" frameX="-7" frameY="-37" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0006" x="881" y="3314" width="877" height="642" frameX="0" frameY="-42" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0007" x="881" y="3314" width="877" height="642" frameX="0" frameY="-42" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0008" x="1768" y="3314" width="877" height="640" frameX="0" frameY="-44" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0009" x="1768" y="3314" width="877" height="640" frameX="0" frameY="-44" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0010" x="1768" y="3314" width="877" height="640" frameX="0" frameY="-44" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0011" x="1768" y="3314" width="877" height="640" frameX="0" frameY="-44" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0012" x="1768" y="3314" width="877" height="640" frameX="0" frameY="-44" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0013" x="1768" y="3314" width="877" height="640" frameX="0" frameY="-44" frameWidth="877" frameHeight="684"/>
+	<SubTexture name="hero_up0014" x="1768" y="3314" width="877" height="640" frameX="0" frameY="-44" frameWidth="877" frameHeight="684"/>
+</TextureAtlas>

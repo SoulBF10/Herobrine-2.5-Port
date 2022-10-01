@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="random dsicord.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rand0000" x="100" y="100" width="251" height="251" frameX="-15" frameY="-13" frameWidth="279" frameHeight="280"/>
+	<SubTexture name="rand0001" x="451" y="100" width="279" height="280"/>
+	<SubTexture name="rand0002" x="830" y="100" width="279" height="280"/>
+	<SubTexture name="rand0003" x="1209" y="100" width="279" height="280"/>
+	<SubTexture name="rand0004" x="1588" y="100" width="279" height="280"/>
+</TextureAtlas>

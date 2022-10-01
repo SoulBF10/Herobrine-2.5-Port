@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zombie.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down instance 10000" x="100" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10001" x="100" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10002" x="100" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10003" x="412" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10004" x="412" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10005" x="412" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10006" x="412" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10007" x="724" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10008" x="724" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10009" x="724" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10010" x="724" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10011" x="724" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10012" x="724" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10013" x="724" y="100" width="212" height="245"/>
+	<SubTexture name="down instance 10014" x="724" y="100" width="212" height="245"/>
+	<SubTexture name="idle instance 10000" x="1036" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10001" x="1036" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10002" x="1369" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10003" x="1702" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10004" x="1702" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10005" x="2035" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10006" x="2035" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10007" x="2368" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10008" x="2701" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10009" x="3034" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10010" x="3034" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10011" x="3367" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10012" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10013" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10014" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10015" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10016" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10017" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10018" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10019" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10020" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10021" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="idle instance 10022" x="3700" y="100" width="233" height="417"/>
+	<SubTexture name="left instance 10000" x="100" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10001" x="100" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10002" x="100" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10003" x="537" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10004" x="537" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10005" x="537" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10006" x="537" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10007" x="974" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10008" x="974" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10009" x="974" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10010" x="974" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10011" x="974" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10012" x="974" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10013" x="974" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10014" x="974" y="617" width="337" height="279"/>
+	<SubTexture name="left instance 10015" x="974" y="617" width="337" height="279"/>
+	<SubTexture name="right instance 10000" x="1411" y="617" width="240" height="418"/>
+	<SubTexture name="right instance 10001" x="1751" y="617" width="240" height="418"/>
+	<SubTexture name="right instance 10002" x="2091" y="617" width="240" height="418"/>
+	<SubTexture name="right instance 10003" x="2431" y="617" width="240" height="418"/>
+	<SubTexture name="right instance 10004" x="2771" y="617" width="240" height="418"/>
+	<SubTexture name="right instance 10005" x="2771" y="617" width="240" height="418"/>
+	<SubTexture name="right instance 10006" x="2771" y="617" width="240" height="418"/>
+	<SubTexture name="right instance 10007" x="2771" y="617" width="240" height="418"/>
+	<SubTexture name="right instance 10008" x="2771" y="617" width="240" height="418"/>
+	<SubTexture name="right instance 10009" x="2771" y="617" width="240" height="418"/>
+	<SubTexture name="rise (static) instance 10000" x="3111" y="617" width="290" height="242"/>
+	<SubTexture name="rise but actual instance 10000" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10001" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10002" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10003" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10004" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10005" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10006" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10007" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10008" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10009" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10010" x="100" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10011" x="517" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10012" x="934" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10013" x="1351" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10014" x="1768" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10015" x="2185" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10016" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10017" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10018" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10019" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10020" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10021" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10022" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10023" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10024" x="3501" y="617" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10025" x="2602" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10026" x="2602" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10027" x="2602" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10028" x="3019" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10029" x="3019" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10030" x="3436" y="1135" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10031" x="100" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10032" x="100" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10033" x="517" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10034" x="517" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10035" x="934" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10036" x="934" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10037" x="1351" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10038" x="1351" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10039" x="1351" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10040" x="1351" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10041" x="1351" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10042" x="1351" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10043" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10044" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10045" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10046" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10047" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10048" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10049" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10050" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10051" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10052" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10053" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10054" x="1768" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10055" x="2185" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10056" x="2185" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10057" x="2185" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10058" x="2185" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10059" x="2602" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10060" x="2602" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10061" x="2602" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10062" x="2602" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10063" x="3019" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10064" x="3019" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10065" x="3019" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10066" x="3436" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10067" x="3436" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10068" x="3436" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10069" x="3436" y="1637" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10070" x="100" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10071" x="100" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10072" x="517" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10073" x="517" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10074" x="934" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10075" x="934" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10076" x="1351" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10077" x="1351" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10078" x="1768" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10079" x="2185" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10080" x="2602" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10081" x="2602" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10082" x="2602" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10083" x="3019" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10084" x="3436" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10085" x="3436" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10086" x="3436" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10087" x="3436" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10088" x="3436" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10089" x="3436" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10090" x="3436" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10091" x="3436" y="2139" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10092" x="100" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10093" x="100" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10094" x="517" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10095" x="517" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10096" x="934" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10097" x="1351" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10098" x="1351" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10099" x="1351" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10100" x="1768" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10101" x="1768" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10102" x="1768" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10103" x="2185" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10104" x="2185" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10105" x="2602" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10106" x="2602" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10107" x="3019" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10108" x="3019" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10109" x="3436" y="2641" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10110" x="100" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10111" x="517" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10112" x="934" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10113" x="1351" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10114" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10115" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10116" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10117" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10118" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10119" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10120" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10121" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10122" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10123" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10124" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10125" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="rise but actual instance 10126" x="1768" y="3143" width="317" height="402"/>
+	<SubTexture name="up instance 10000" x="2185" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10001" x="2185" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10002" x="2185" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10003" x="2530" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10004" x="2530" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10005" x="2530" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10006" x="2530" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10007" x="2875" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10008" x="2875" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10009" x="2875" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10010" x="2875" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10011" x="2875" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10012" x="2875" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10013" x="2875" y="3143" width="245" height="325"/>
+	<SubTexture name="up instance 10014" x="2875" y="3143" width="245" height="325"/>
+</TextureAtlas>

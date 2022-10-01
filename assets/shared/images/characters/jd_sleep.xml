@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jd sleep.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jdsleep0000" x="100" y="100" width="1028" height="840"/>
+	<SubTexture name="jdsleep0001" x="1228" y="100" width="1028" height="840"/>
+	<SubTexture name="jdsleep0002" x="2356" y="100" width="1028" height="840"/>
+	<SubTexture name="jdsleep0003" x="3484" y="100" width="1028" height="840"/>
+	<SubTexture name="jdsleep0004" x="4612" y="100" width="1028" height="839" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0005" x="5740" y="100" width="1028" height="839" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0006" x="6868" y="100" width="1028" height="838" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0007" x="100" y="1040" width="1028" height="838" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0008" x="1228" y="1040" width="1028" height="837" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0009" x="2356" y="1040" width="1028" height="837" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0010" x="3484" y="1040" width="1028" height="836" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0011" x="4612" y="1040" width="1028" height="835" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0012" x="5740" y="1040" width="1028" height="835" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0013" x="6868" y="1040" width="1028" height="834" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0014" x="100" y="1978" width="1028" height="834" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0015" x="1228" y="1978" width="1028" height="834" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0016" x="2356" y="1978" width="1028" height="833" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0017" x="3484" y="1978" width="1028" height="833" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0018" x="4612" y="1978" width="1028" height="833" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0019" x="5740" y="1978" width="1028" height="833" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0020" x="6868" y="1978" width="1028" height="833" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0021" x="100" y="2912" width="1028" height="833" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0022" x="1228" y="2912" width="1028" height="833" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0023" x="2356" y="2912" width="1028" height="834" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0024" x="3484" y="2912" width="1028" height="834" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0025" x="4612" y="2912" width="1028" height="834" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0026" x="5740" y="2912" width="1028" height="834" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0027" x="6868" y="2912" width="1028" height="835" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0028" x="100" y="3847" width="1028" height="835" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0029" x="1228" y="3847" width="1028" height="836" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0030" x="2356" y="3847" width="1028" height="836" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0031" x="3484" y="3847" width="1028" height="837" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0032" x="4612" y="3847" width="1028" height="837" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0033" x="5740" y="3847" width="1028" height="838" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0034" x="6868" y="3847" width="1028" height="838" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0035" x="100" y="4785" width="1028" height="839" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0036" x="1228" y="4785" width="1028" height="839" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0037" x="2356" y="4785" width="1028" height="839" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0038" x="3484" y="4785" width="1028" height="839" frameX="0" frameY="0" frameWidth="1028" frameHeight="840"/>
+	<SubTexture name="jdsleep0039" x="4612" y="4785" width="1028" height="840"/>
+	<SubTexture name="jdsleep0040" x="5740" y="4785" width="1028" height="840"/>
+	<SubTexture name="jdsleep0041" x="6868" y="4785" width="1028" height="840"/>
+	<SubTexture name="jdsleep0042" x="100" y="100" width="1028" height="840"/>
+</TextureAtlas>

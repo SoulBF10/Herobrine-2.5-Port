@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BloodLust_Steve.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Steve0000" x="50" y="50" width="594" height="605" frameX="0" frameY="-10" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0001" x="50" y="50" width="594" height="605" frameX="0" frameY="-10" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0002" x="694" y="50" width="585" height="600" frameX="-4" frameY="-16" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0003" x="694" y="50" width="585" height="600" frameX="-4" frameY="-16" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0004" x="1329" y="50" width="578" height="612" frameX="-7" frameY="-4" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0005" x="1329" y="50" width="578" height="612" frameX="-7" frameY="-4" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0006" x="50" y="712" width="575" height="615" frameX="-8" frameY="-1" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0007" x="50" y="712" width="575" height="615" frameX="-8" frameY="-1" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0008" x="675" y="712" width="574" height="616" frameX="-8" frameY="0" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0009" x="675" y="712" width="574" height="616" frameX="-8" frameY="0" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0010" x="1299" y="712" width="574" height="616" frameX="-8" frameY="0" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0011" x="1299" y="712" width="574" height="616" frameX="-8" frameY="0" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0012" x="1299" y="712" width="574" height="616" frameX="-8" frameY="0" frameWidth="594" frameHeight="616"/>
+	<SubTexture name="Steve0013" x="1299" y="712" width="574" height="616" frameX="-8" frameY="0" frameWidth="594" frameHeight="616"/>
+</TextureAtlas>

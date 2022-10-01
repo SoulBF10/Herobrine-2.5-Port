@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu brin.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="brin instance 10000" x="100" y="100" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10001" x="1940" y="100" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10002" x="3780" y="100" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10003" x="5620" y="100" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10004" x="100" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10005" x="1940" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10006" x="3780" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10007" x="3780" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10008" x="3780" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10009" x="3780" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10010" x="3780" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10011" x="3780" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10012" x="3780" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10013" x="3780" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10014" x="3780" y="1613" width="1740" height="1413"/>
+	<SubTexture name="brin instance 10015" x="3780" y="1613" width="1740" height="1413"/>
+</TextureAtlas>

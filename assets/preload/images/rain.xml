@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rain.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rain tho0000" x="10" y="10" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0001" x="10" y="10" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0002" x="2515" y="10" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0003" x="2515" y="10" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0004" x="5020" y="10" width="2469" height="1384" frameX="0" frameY="0" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0005" x="5020" y="10" width="2469" height="1384" frameX="0" frameY="0" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0006" x="10" y="1404" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0007" x="10" y="1404" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0008" x="2515" y="1404" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0009" x="2515" y="1404" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0010" x="5020" y="1404" width="2442" height="1369" frameX="-13" frameY="-7" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0011" x="5020" y="1404" width="2442" height="1369" frameX="-13" frameY="-7" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0012" x="10" y="2783" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0013" x="10" y="2783" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0014" x="2515" y="2783" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0015" x="2515" y="2783" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0016" x="5020" y="2783" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0017" x="5020" y="2783" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0018" x="10" y="10" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+	<SubTexture name="rain tho0019" x="10" y="10" width="2495" height="1283" frameX="-3" frameY="-3" frameWidth="2498" frameHeight="1384"/>
+</TextureAtlas>
